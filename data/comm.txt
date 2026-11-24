@@ -1,0 +1,19 @@
+Adenomera_marmorata	Aplastodiscus_leucopygius	Bokermannohyla_circumdata	Bokermannohyla_martinsi	Brachycephalus_ephippium	Brachycephalus_nodoterga	Crossodactylus_caramaschi	Dendropsophus_elegans	Dendropsophus_minutus	Dendropsophus_nanus	Dendropsophus_sanborni	Elachistocleis_cesarii	Haddadus_binotatus	Hylodes_lateristrigatus	Hylodes_phyllodes	Hylodes_sazimai	Boana_albopunctata	Boana_bischoffi	Boana_faber	Boana_prasina	Ischnocnema_guentheri	Ischnocnema_izecksohni	Ischnocnema_juipoca	Ischnocnema_parva	Leptodactylus_fuscus	Leptodactylus_labyrinthicus	Leptodactylus_mystacinus	Odontophrynus_americanus	Odontophrynus_cultripes	Phyllomedusa_burmeisteri	Physalaemus_cuvieri	Physalaemus_olfersii	Proceratophrys_boiei	Rhinella_icterica	Rhinella_ornata	Scinax_crospedospilus	Scinax_fuscomarginatus	Scinax_fuscovarius	Scinax_hayii	Vitreorana_eurygnatha
+LEEC03	0	0	0	0	0	1	0	0	14	1	1	0	0	0	0	0	1	1	6	12	0	0	7	3	1	1	0	0	0	0	4	0	0	4	0	12	0	0	0	0
+LEEC05	9	0	0	0	0	0	0	0	0	0	5	0	0	0	0	0	14	0	0	2	4	0	7	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+LEEC06	2	1	0	0	0	0	0	0	0	0	0	0	2	0	3	0	19	0	0	0	10	0	6	0	0	0	0	0	0	0	6	0	0	0	0	0	0	0	0	0
+LEEC08	0	0	0	0	0	0	0	5	0	3	0	3	0	0	2	0	19	0	8	17	3	0	4	0	3	0	0	0	0	0	38	0	0	7	0	0	0	0	0	0
+LEEC09	0	0	0	0	2	0	0	3	0	0	9	0	4	0	0	1	10	0	16	6	14	0	4	0	18	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+LEEC15	0	0	0	0	0	0	1	0	0	9	0	11	0	1	0	0	12	0	2	0	0	0	1	0	0	0	1	0	0	0	16	2	1	0	0	0	0	0	0	0
+LEEC18	7	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	12	0	0	2	0	0	1	0	2	0	0	1	0	0	0	0	2	0	1	0	0	0	0	0
+LEEC21	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	5	0	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LEEC23	3	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	3	0	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+LEEC24	0	7	0	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	6	0	0	0	2	0	0	0	0	0	0	0	0	0	2	0	0	2	0	0	0	0
+LEEC26	13	0	0	0	0	0	0	5	0	0	0	0	2	0	0	0	0	0	0	0	0	0	5	0	2	0	1	0	0	0	0	0	0	0	0	2	0	0	0	1
+LEEC33	0	0	0	0	0	0	0	1	19	0	0	0	4	0	0	0	18	0	20	2	0	0	3	0	1	0	4	0	0	3	17	0	0	0	0	0	3	0	0	0
+LEEC40	2	0	0	2	0	0	0	0	2	4	13	1	2	0	0	0	15	8	0	2	11	2	11	3	11	0	3	0	0	0	23	0	1	0	0	17	0	0	0	0
+LEEC41	3	5	0	0	0	0	0	3	2	0	1	0	1	0	0	0	8	0	12	0	1	0	2	0	2	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0
+LEEC42	13	0	0	0	0	0	0	6	0	11	0	0	5	0	0	0	0	0	0	0	8	0	3	0	0	0	4	0	0	0	0	0	0	2	0	0	0	0	0	0
+LEEC43	18	0	1	0	0	0	0	0	0	15	12	0	4	0	0	0	11	7	3	0	17	0	12	0	6	0	6	0	0	0	25	0	2	0	0	0	0	0	0	0
+LEEC48	0	29	0	0	0	1	0	11	15	0	0	3	0	0	0	0	0	2	0	3	11	0	9	1	0	0	8	0	2	0	17	4	4	0	0	6	0	0	4	0
+LEEC49	0	27	0	0	0	1	0	7	0	0	0	0	0	0	0	4	11	0	4	0	10	0	9	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
